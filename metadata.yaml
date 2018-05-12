@@ -1,5 +1,8 @@
 _repo: Quotes-and-Images-From-The-Works-of-Mark-Twain_7556
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7556#Quotes-and-Images-From-The-Works-of-Mark-Twain
 gutenberg_issued: '2004-08-30'
 gutenberg_type: Text
 identifiers:
